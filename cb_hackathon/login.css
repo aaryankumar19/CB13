@@ -1,0 +1,90 @@
+html{
+    background-image: url('fit4.jpeg');
+    background-size:cover;
+}
+
+#login{
+    border:4px solid white;
+    text-align: center;
+    height:500px;
+    width:30%;
+    border-radius: 5%;
+    margin-left: 10%;
+    margin-top:7%;
+    margin-right: auto;
+    background-color: rgba(255,255,255,0.2);
+}
+
+form{
+    margin-top:30px;
+}
+
+#login_text{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size:40px;
+    font-family: Helvetica;
+}
+
+.user_text{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.u_box{
+    width:90%;
+    height:35px;
+    border-radius: 23px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Calibri;
+    border:3px solid rgb(253,61,13);
+}
+
+#submit{
+    margin-top: 20px;;
+    height: 40px;
+    width:30%;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+    padding-top:8px;
+    padding-bottom:10px;
+}
+
+#save-pwd{
+    margin-top:15px;
+}
+
+#forgot{
+    margin-left:150px;
+}
+
+#save-pwd{
+    font-weight: bold;
+}
+
+#forgot{
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(253,61,13);
+    color:white;
+    border:none;
+}
+
+
+
+.orange{
+    color:rgb(253,61,13);
+    font-weight: bold;
+    font-size: 16px;;
+}
+
+.orange:hover{
+    cursor:pointer;
+}
